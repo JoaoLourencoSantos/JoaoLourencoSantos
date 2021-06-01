@@ -11,7 +11,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 
 ## 🌱 I’m currently learning ...
 
-<img align="right" width="300" src="./assets/developer.png"/>
+<img align="right" width="300" src="./assets/developer.gif"/>
  
 - **Java / Spring Boot** 
 - **Node.js**
