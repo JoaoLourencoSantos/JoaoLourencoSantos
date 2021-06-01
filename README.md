@@ -7,6 +7,8 @@ I am a young developer, curious and always looking for new knowledge and challen
 
 Currently I work in Backend / Frontend development in different languages ​​such as Java, Typescript and Angular but I seek to know even more languages ​​and technologies.
 
+Seja bem vindo ao meu repositório espero que possa aproveitar, sugerir e contribuir com os projetos aqui iniciados. Aproveite ...
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=JoaoLourencoSantos&show_icons=true&theme=dracula)
