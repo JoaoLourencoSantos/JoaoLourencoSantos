@@ -12,15 +12,12 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 ## 🌱 I’m currently learning ...
 
 <img align="right" width="300" src="./assets/developer.png"/>
-
-- **[Ignite Bootcamp #1](https://rocketseat.com.br/)**
+ 
+- **Java / Spring Boot** 
 - **Node.js**
-- **React**
-- **React Native**
-- **Java**
-- **TDD**
 - **UX / UI**
-- **Software design**
+- **Angular** 
+- **Docker**
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
