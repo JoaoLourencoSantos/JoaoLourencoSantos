@@ -3,7 +3,9 @@
 [![](https://img.shields.io/badge/-@JoaoLourencoSantos-%23181717?style=flat-square&logo=github)](https://github.com/JoaoLourencoSantos/)
 [![](https://img.shields.io/badge/-João%Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jo%C3%A3o-santos-22051015a/)](https://www.linkedin.com/in/jo%C3%A3o-santos-22051015a/) 
 
-Eu sou um desenvolvedor junior, curioso e sempre em busca de novos conhecimentos e desafios.
+Eu sou um desenvolvedor jovem, curioso e sempre em busca de novos conhecimentos e desafios. Espero ainda conhecer diversas frentes elevando a cada vez mais o meu nível. 
+
+Atualmente atuo desenvolvimento Backend/Frontend em diferentes linguagens como Java, Typescript e Angular mas busco conhecer ainda mais linguagens e tecnologias.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
