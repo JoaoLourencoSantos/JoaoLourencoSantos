@@ -11,7 +11,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 
 ## 🌱 I’m currently learning ...
 
-<img align="right" src="https://fuertedevelopers.com/assets/img/aboutus.gif"/>
+<img align="right" width="500" src="./assets/developer.png"/>
 
 - **[Ignite Bootcamp #1](https://rocketseat.com.br/)**
 - **Node.js**
