@@ -9,6 +9,20 @@ Currently I work in Backend / Frontend development in different languages ​​
 
 Welcome to my repository, I hope you can enjoy, suggest and contribute to the projects started here. Enjoy ...
 
+## 🌱 I’m currently learning ...
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+- **[Ignite Bootcamp #1](https://rocketseat.com.br/)**
+- **Node.js**
+- **React**
+- **React Native**
+- **Java**
+- **TDD**
+- **UX / UI**
+- **Software design**
+
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![João Santos github stats](https://github-readme-stats.vercel.app/api?username=JoaoLourencoSantos&show_icons=true&theme=dracula)
