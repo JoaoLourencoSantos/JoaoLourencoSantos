@@ -7,7 +7,7 @@ I am a young developer, curious and always looking for new knowledge and challen
 
 Currently I work in Backend / Frontend development in different languages ​​such as Java, Typescript and Angular but I seek to know even more languages ​​and technologies.
 
-Seja bem vindo ao meu repositório espero que possa aproveitar, sugerir e contribuir com os projetos aqui iniciados. Aproveite ...
+Welcome to my repository, I hope you can enjoy, suggest and contribute to the projects started here. Enjoy ...
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
