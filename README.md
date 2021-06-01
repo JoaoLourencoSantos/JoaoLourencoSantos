@@ -2,7 +2,7 @@
   
 [![](https://img.shields.io/badge/-@JoaoLourencoSantos-%23181717?style=flat-square&logo=github)](https://github.com/JoaoLourencoSantos/)  
 [![](https://img.shields.io/badge/-João%Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jo%C3%A3o-santos-22051015a/)](https://www.linkedin.com/in/jo%C3%A3o-santos-22051015a/) 
-![](https://img.shields.io/badge/-Nick%20Chapsas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/nick-chapsas/)
+![](https://img.shields.io/badge/-Nick%20Chapsas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jo%C3%A3o-santos-22051015a/)](https://www.linkedin.com/in/jo%C3%A3o-santos-22051015a/)
 
 I am a young developer, curious and always looking for new knowledge and challenges. I also hope to see several fronts, raising my level more and more.
 
