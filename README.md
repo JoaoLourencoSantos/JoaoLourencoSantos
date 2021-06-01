@@ -5,7 +5,7 @@
 
 I am a young developer, curious and always looking for new knowledge and challenges. I also hope to see several fronts, raising my level more and more.
 
-Currently I work in Backend / Frontend development in different languages ​​such as Java, Typescript and Angular but I seek to know even more languages ​​and technologies.
+Currently I work in Backend / Frontend development in different languages ​​such as Java, JavaScript and Typescript but I seek to know even more languages ​​and technologies.
 
 Welcome to my repository, I hope you can enjoy, suggest and contribute to the projects started here. Enjoy ...
 
