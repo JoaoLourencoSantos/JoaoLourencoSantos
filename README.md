@@ -23,6 +23,6 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 ![João Santos github stats](https://github-readme-stats.vercel.app/api?username=JoaoLourencoSantos&show_icons=true&theme=dracula)
 
 
-## Most used languages
+## Most used languages  
 
 ![João Santos github used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLourencoSantos&layout=compact&theme=dracula)
