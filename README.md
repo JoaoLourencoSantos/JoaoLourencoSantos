@@ -5,9 +5,7 @@
 <a href = "mailto:lourencosjm41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-I am a young developer, curious and always looking for new knowledge and challenges. I also hope to see several fronts, raising my level more and more.
-
-Currently I work in Backend / Frontend development in different languages ​​such as Java, JavaScript and Typescript but I seek to know even more languages ​​and technologies.
+I am a young developer, curious and always looking for new knowledge and challenges. I also hope to see several fronts, raising my level more and more. Currently I work in Backend/Frontend development in different languages ​​such as Java, JavaScript and Typescript but I seek to know even more languages ​​and technologies.
 
 Welcome to my repository, I hope you can enjoy, suggest and contribute to the projects started here. Enjoy ...
 
@@ -45,6 +43,6 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 ![João Santos github stats](https://github-readme-stats.vercel.app/api?username=JoaoLourencoSantos&show_icons=true&theme=dracula)
 
 
-## Most used languages
+## Most used languages  
 
 ![João Santos github used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLourencoSantos&layout=compact&theme=dracula)
