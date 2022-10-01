@@ -29,7 +29,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 
 <br>
 
-- **Java / Spring Boot** 
+- **Java / Spring Boot tets** 
 - **Node.js**
 - **UX / UI**
 - **Angular** 
