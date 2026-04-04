@@ -9,7 +9,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 
 ## 🛠 &nbsp;Tech Stack
 
-<img align="right" width="300" src="./assets/developer.png"/> 
+<img align="right" width="350" src="./assets/developer.png"/> 
 
 ### 🎨 &nbsp;Frontend 
   
