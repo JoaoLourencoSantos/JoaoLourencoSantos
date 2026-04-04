@@ -19,8 +19,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
   <img align="center" alt="Js" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Nodejs" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">   
-  <img align="center" alt="NestJS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"> 
+  <img align="center" alt="Nodejs" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">    
   <img align="center" alt="Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">   
   <img align="center" alt="Spring" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
   <img align="center" alt="Docker" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> 
@@ -38,11 +37,12 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 <br> 
 <br>
 
-## 𝗦𝘁𝗮𝘁𝘀
 
-![João Santos github stats](https://github-readme-stats.vercel.app/api?username=JoaoLourencoSantos&show_icons=true&theme=dracula)
+## ⚙️ &nbsp;GitHub Analytics
 
-
-## Most used languages  
-
-![João Santos github used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLourencoSantos&layout=compact&theme=dracula)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
