@@ -11,13 +11,6 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 
 <img align="right" width="300" src="./assets/developer.png"/> 
 
-
-### ⚙️ &nbsp;Control Versions
-  
-[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
-
 ### ⚙️ &nbsp;Frontend 
   
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=typescript&sort=)
@@ -30,11 +23,20 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 ### ⚙️ &nbsp;Backend 
   
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
-[![PostgresSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=postgresql&sort=) 
-[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![SpringBoot](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#) 
+[![PostgresSQL](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
   
+### ⚙️ &nbsp;Tools
+  
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![Intelij IDEA](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](#)
 
 ### ⚙️ &nbsp;Skills
 
