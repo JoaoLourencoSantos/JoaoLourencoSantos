@@ -6,33 +6,50 @@ I am a young developer, curious and always looking for new knowledge and challen
 
 Welcome to my repository, I hope you can enjoy, suggest and contribute to the projects started here. Enjoy ...
 
-## 🌱 I’m currently learning ...
 
 ## 🛠 &nbsp;Tech Stack
 
-<img align="right" width="300" src="./assets/developer.png"/>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="CSS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Js" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Nodejs" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">    
-  <img align="center" alt="Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">   
-  <img align="center" alt="Spring" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
-  <img align="center" alt="Docker" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> 
-  <img align="center" alt="Docker" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
-</div>
+<img align="right" width="300" src="./assets/developer.png"/> 
+
+
+### ⚙️ &nbsp;Control Versions
+  
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+
+### ⚙️ &nbsp;Frontend 
+  
+[![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=typescript&sort=)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/clcmo?tab=repositories&q=&type=&language=javascript&sort=)
+[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
+[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=)
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
+[![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
+[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#)
+
+### ⚙️ &nbsp;Backend 
+  
+[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=php&sort=)
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
+  
+
+### ⚙️ &nbsp;Skills
+
+[![Planning](https://img.shields.io/badge/planning-0079BF?style=for-the-badge&logo=Trello&logoColor=white)](#)
+[![Kanban](https://img.shields.io/badge/kanban-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+[![Architetures](https://img.shields.io/badge/architetures-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
+[![Work With Teams](https://img.shields.io/badge/work%20with%20teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
+
 
 <br>
-<br> 
-<br>
-
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="start">
 <a href="https://github.com/JoaoLourencoSantos">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoLourencoSantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoLourencoSantos&layout=compact&langs_count=8&theme=algolia"/>
