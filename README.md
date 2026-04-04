@@ -16,7 +16,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
   
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 
 ### ⚙️ &nbsp;Frontend 
   
@@ -24,17 +24,16 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/clcmo?tab=repositories&q=&type=&language=javascript&sort=)
 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
 [![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=)
-[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
-[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
-[![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
-[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)](#) 
+[![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 
 ### ⚙️ &nbsp;Backend 
   
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=php&sort=)
+[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
+[![PostgresSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=postgresql&sort=) 
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
   
 
 ### ⚙️ &nbsp;Skills
