@@ -11,7 +11,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 
 <img align="right" width="300" src="./assets/developer.png"/> 
 
-### ⚙️ &nbsp;Frontend 
+### 🎨 &nbsp;Frontend 
   
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=typescript&sort=)
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/clcmo?tab=repositories&q=&type=&language=javascript&sort=)
@@ -20,7 +20,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 [![Angular](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)](#) 
 [![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 
-### ⚙️ &nbsp;Backend 
+### 🖥️ &nbsp;Backend 
   
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -31,14 +31,14 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](#)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
   
-### ⚙️ &nbsp;Tools
+### 🧰 &nbsp;Tools
   
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 [![Intelij IDEA](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](#)
 
-### ⚙️ &nbsp;Skills
+### 🚀 &nbsp;Skills
 
 [![Scrum](https://img.shields.io/badge/planning-0079BF?style=for-the-badge&logo=Trello&logoColor=white)](#)
 [![Kanban](https://img.shields.io/badge/kanban-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
