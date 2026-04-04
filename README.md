@@ -36,7 +36,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
-[![Intelij IDEA](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](#)
+[![Intelij IDEA](https://img.shields.io/badge/Intelij%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](#)
 
 ### 🚀 &nbsp;Skills
 
@@ -44,6 +44,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 [![Kanban](https://img.shields.io/badge/kanban-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
 [![Architetures](https://img.shields.io/badge/architetures-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
 [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
+[![Team Lead](https://img.shields.io/badge/Team%20Lead-00CCBC?style=for-the-badge&logo=slideshare&logoColor=white)](#)
 
 
 <br>
