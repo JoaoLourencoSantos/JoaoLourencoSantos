@@ -40,7 +40,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 
 ### ⚙️ &nbsp;Skills
 
-[![Planning](https://img.shields.io/badge/planning-0079BF?style=for-the-badge&logo=Trello&logoColor=white)](#)
+[![Scrum](https://img.shields.io/badge/planning-0079BF?style=for-the-badge&logo=Trello&logoColor=white)](#)
 [![Kanban](https://img.shields.io/badge/kanban-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
 [![Architetures](https://img.shields.io/badge/architetures-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
 [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
